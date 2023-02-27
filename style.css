@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+nav{
+    float: right;	
+	}
+
+#logo {
+    position: absolute;
+    left: -4px;
+    width: 297px;
+    top: 1px;
+    height: 338px;
+}
+nav ul {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+nav li {
+    display: inline-block;
+    float: left;
+    margin: 0;
+    padding: 35px;
+    text-align: left;
+    		
+
+}
+nav a {
+    color: #F7F3F3;
+}
+
+nav a:hover {
+	color: crimson;
+}
+danielpic {
+    position: static;
+}
+
+
+body h1 {
+    display: inline-block;
+    position: absolute;
+    left: 617px;
+    top: 440px;
+    width: 655px;
+    height: 249px;
+    text-shadow: 0px 0px #FBF4F4;
+    color: #F5F2F2;
+}
+
+body form {
+    position: absolute;
+    left: 796px;
+    top: 314px;
+    width: 795px;
+    height: 401px;
+    text-align: justify;
+    color: #010000;
+}
+.contact-form #textarea {
+    position: absolute;
+    left: 2px;
+    top: 172px;
+    height: 109px;
+    color: #000000;
+    width: 366px;
+}
+.contact-form button {
+    position: absolute;
+    left: 2px;
+    top: 341px;
+    width: 368px;
+}
+body p {
+    position: absolute;
+    color: #F8F0F1;
+    left: 876px;
+    top: 225px;
+    width: 675px;
+    height: 86px;
+}
+.contact-form #inputname {
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    width: 360px;
+}
+.contact-form #inputemail {
+    position: absolute;
+    left: 2px;
+    top: 52px;
+    width: 359px;
+}
+.contact-form #inputsubject {
+    position: absolute;
+    left: 1px;
+    top: 103px;
+    width: 364px;
+}
